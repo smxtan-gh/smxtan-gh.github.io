@@ -1,7 +1,5 @@
 # smxtan-gh.github.io
-Blog
-
-Hello, this is a blog page for all of my progress updates on Cybersecurity and Machine Learning studies.
+Hello! This is a blog page for all of my progress updates on Cybersecurity and Machine Learning studies.
 <br>
 <br>
 <br>
