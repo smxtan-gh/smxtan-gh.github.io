@@ -19,8 +19,6 @@ I am beginning CyLab Security Academy (made by CMU). It seems like a pretty cool
 <br>
 <br>
 I will be starting the first mini-course provided - [The Beginner's Guide to the Challenge Library]
-<br>
-<br>
 ![If image not loading, please refresh](/assets/images/TBGTTCH.jpg)
 <br>
 <br>
@@ -30,7 +28,8 @@ The "Forensics" reminds of of OSINT, or gathering information through open-sourc
 <br>
 First challenge in this section asked me to download a file and find the 'flag' which is a line like this:
 ![If image not loading, please refresh](/assets/images/firstchall.png)
-I was able to get it first try since it was an introductory mini-challenge, it helped me to understand the task better and find my goals.
+<br>
+Though, I was able to get it first try since it was an introductory mini-challenge, it helped me to understand the task better and find my goals.
 <br>
 <br>
 This is interesting, I might need some time to figure this one out, but it seems like I need to open powershell or gitbash to find this flag.
