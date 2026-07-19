@@ -24,7 +24,8 @@ The "Forensics" reminds of of OSINT, or gathering information through open-sourc
 ![If image not loading, please refresh](/assets/images/RMOSINT.png)
 <br>
 <br>
-First challenge in this section asked me to download a file and find the 'flag' which is a line like this:
+First challenge in this section asked me to download a file and find the 'flag' which is a line like this: picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
+
 ![If image not loading, please refresh](/assets/images/firstchall.png)
 <br>
 Though, I was able to get it first try since it was an introductory mini-challenge, it helped me to understand the task better and find my goals.
